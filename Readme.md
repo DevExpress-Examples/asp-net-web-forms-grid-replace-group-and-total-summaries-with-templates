@@ -1,4 +1,4 @@
-# Grid View for ASP.NET Web Forms - How to use group footer and footer templates to customize group ant total summaries
+# Grid View for ASP.NET Web Forms - How to use group footer and footer templates to customize group and total summaries
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e4153/)**
 <!-- run online end -->
