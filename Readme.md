@@ -11,7 +11,7 @@
 <!-- default file list end -->
 # ASPxGridView - Сustomize GroupSummary/TotalSummary via GroupFooter/Footer templates
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4153/)**
+**[[Run Online]](https://codecentral.devexpress.com/128536641/)**
 <!-- run online end -->
 
 
