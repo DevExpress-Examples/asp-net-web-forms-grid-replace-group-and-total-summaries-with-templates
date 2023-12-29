@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to use group footer and footer templates to customize group and total summaries
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128536641/)**
-<!-- run online end -->
 
 This example demonstrates how to create group footer and footer templates to replace default group and total summary items with average column values.
 
